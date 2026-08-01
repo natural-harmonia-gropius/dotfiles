@@ -1,0 +1,28 @@
+[user]
+  name = natural-harmonia-gropius
+  email = 50797982+natural-harmonia-gropius@users.noreply.github.com
+  signingkey = ~/.ssh/id_ed25519
+
+[gpg]
+  format = ssh
+
+[commit]
+  gpgsign = true
+
+[safe]
+  directory = *
+
+[core]
+  editor = code --wait
+
+[merge]
+  tool = vscode
+
+[mergetool "vscode"]
+  cmd = code --wait $MERGED
+
+[diff]
+  tool = vscode
+
+[difftool "vscode"]
+  cmd = code --wait --diff $LOCAL $REMOTE
