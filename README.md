@@ -1,2 +1,1 @@
-# reverie
-My public dotfiles repository
+# Dotfiles
