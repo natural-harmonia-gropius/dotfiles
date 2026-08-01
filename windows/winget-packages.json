@@ -1,0 +1,212 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2026-08-02T13:41:33.348+08:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "5E.5EClient"
+        },
+        {
+          "PackageIdentifier": "Anthropic.ClaudeCode"
+        },
+        {
+          "PackageIdentifier": "astral-sh.uv"
+        },
+        {
+          "PackageIdentifier": "BurntSushi.ripgrep.MSVC"
+        },
+        {
+          "PackageIdentifier": "chen08209.FlClash"
+        },
+        {
+          "PackageIdentifier": "ChuyuTeam.DISM++"
+        },
+        {
+          "PackageIdentifier": "ElectronicArts.EADesktop"
+        },
+        {
+          "PackageIdentifier": "Futuremark.FuturemarkSystemInfo"
+        },
+        {
+          "PackageIdentifier": "GeekUninstaller.GeekUninstaller"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Google.AndroidCLI"
+        },
+        {
+          "PackageIdentifier": "Google.PlatformTools"
+        },
+        {
+          "PackageIdentifier": "GuinpinSoft.MakeMKV"
+        },
+        {
+          "PackageIdentifier": "Gyan.FFmpeg"
+        },
+        {
+          "PackageIdentifier": "JetBrains.DataGrip"
+        },
+        {
+          "PackageIdentifier": "JustArchiNET.ArchiSteamFarm"
+        },
+        {
+          "PackageIdentifier": "LeiGod.LeiGodAcc"
+        },
+        {
+          "PackageIdentifier": "LocalSend.LocalSend"
+        },
+        {
+          "PackageIdentifier": "Logitech.OnboardMemoryManager"
+        },
+        {
+          "PackageIdentifier": "lostindark.DriverStoreExplorer"
+        },
+        {
+          "PackageIdentifier": "lucasg.Dependencies"
+        },
+        {
+          "PackageIdentifier": "M2Team.NanaZip"
+        },
+        {
+          "PackageIdentifier": "MetaCubeX.Mihomo"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AppInstaller"
+        },
+        {
+          "PackageIdentifier": "Microsoft.GameInput"
+        },
+        {
+          "PackageIdentifier": "Microsoft.OpenCLGLVulkanCompatibilityPack"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerShell"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Sysinternals.Suite"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2005.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2005.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2008.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2008.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2010.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2010.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2012.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2012.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsTerminal"
+        },
+        {
+          "PackageIdentifier": "Microsoft.XNARedist"
+        },
+        {
+          "PackageIdentifier": "MoritzBunkus.MKVToolNix"
+        },
+        {
+          "PackageIdentifier": "NetEase.UURemote"
+        },
+        {
+          "PackageIdentifier": "NirSoft.BlueScreenView"
+        },
+        {
+          "PackageIdentifier": "OpenAI.Codex"
+        },
+        {
+          "PackageIdentifier": "OpenJS.NodeJS.LTS"
+        },
+        {
+          "PackageIdentifier": "Oven-sh.Bun"
+        },
+        {
+          "PackageIdentifier": "Parsec.Parsec"
+        },
+        {
+          "PackageIdentifier": "PerfectWorld.PerfectWorldArena"
+        },
+        {
+          "PackageIdentifier": "PIKCLOUD.PikPak"
+        },
+        {
+          "PackageIdentifier": "qBittorrent.qBittorrent.lt2"
+        },
+        {
+          "PackageIdentifier": "REALiX.HWiNFO"
+        },
+        {
+          "PackageIdentifier": "TeamSpeakSystems.TeamSpeakClient"
+        },
+        {
+          "PackageIdentifier": "TechPowerUp.NVCleanstall"
+        },
+        {
+          "PackageIdentifier": "Tencent.QQ.NT"
+        },
+        {
+          "PackageIdentifier": "Tencent.WeChat.Universal"
+        },
+        {
+          "PackageIdentifier": "ToastyX.CustomResolutionUtility"
+        },
+        {
+          "PackageIdentifier": "Ubisoft.Connect"
+        },
+        {
+          "PackageIdentifier": "UderzoSoftware.SpaceSniffer"
+        },
+        {
+          "PackageIdentifier": "Valve.Steam"
+        },
+        {
+          "PackageIdentifier": "Ventoy.Ventoy"
+        },
+        {
+          "PackageIdentifier": "Yerong.OfficeToolPlus"
+        },
+        {
+          "PackageIdentifier": "yt-dlp.yt-dlp"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.30.80-preview"
+}

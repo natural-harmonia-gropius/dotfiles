@@ -33,11 +33,11 @@ sudo winget upgrade --all
 ```
 
 ```sh
-sudo winget import packages.json
+sudo winget import winget-packages.json
 ```
 
 ```sh
-winget export packages.json
+winget export winget-packages.json
 ```
 
 Sort packages.json
@@ -46,7 +46,7 @@ Sort packages.json
 & {
     $ErrorActionPreference = 'Stop'
 
-    $path = (Resolve-Path -LiteralPath 'packages.json').Path
+    $path = (Resolve-Path -LiteralPath 'winget-packages.json').Path
     $json = Get-Content -LiteralPath $path -Raw | ConvertFrom-Json
 
     foreach ($source in $json.Sources) {
