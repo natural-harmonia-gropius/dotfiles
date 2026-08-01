@@ -1,0 +1,17 @@
+--js-runtimes node
+
+# Cookies
+--cookies ~/.yt-dlp/cookies.txt
+
+# Metadata
+--embed-subs
+# --embed-thumbnail
+--embed-metadata
+--embed-chapters
+# --embed-info-json
+
+--sub-langs all,-live_chat
+
+# Output
+--output "%(title)s.%(ext)s"
+--merge-output-format webm/mp4
