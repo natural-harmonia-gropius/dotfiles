@@ -103,9 +103,12 @@ store install 9NBLGGH30XJ3
 
 ## Softwares not managed
 
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - [Starward](https://github.com/Scighost/Starward/releases)
+- [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - [像素蛋糕](https://www.pixcakeai.com/)
+- [glslang](https://github.com/KhronosGroup/glslang/releases)
+- [NVIDIA Nsight Graphics](https://developer.nvidia.com/nsight-graphics/get-started)
 
 ## Clipboard
 
