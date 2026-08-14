@@ -1,6 +1,6 @@
 {
   "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-  "CreationDate": "2026-08-02T13:41:33.348+08:00",
+  "CreationDate": "2026-08-15T03:59:44.439+08:00",
   "Sources": [
     {
       "Packages": [
@@ -12,6 +12,9 @@
         },
         {
           "PackageIdentifier": "astral-sh.uv"
+        },
+        {
+          "PackageIdentifier": "BaldurKarlsson.RenderDoc"
         },
         {
           "PackageIdentifier": "BurntSushi.ripgrep.MSVC"
@@ -75,6 +78,9 @@
         },
         {
           "PackageIdentifier": "Microsoft.AppInstaller"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Edge"
         },
         {
           "PackageIdentifier": "Microsoft.GameInput"
@@ -208,5 +214,5 @@
       }
     }
   ],
-  "WinGetVersion": "1.30.80-preview"
+  "WinGetVersion": "1.30.100-preview"
 }
