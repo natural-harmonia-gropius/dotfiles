@@ -146,6 +146,10 @@ code $PROFILE
 uv python install --default
 ```
 
+```sh
+uv python upgrade
+```
+
 - [Installing and managing Python with uv](https://docs.astral.sh/uv/guides/install-python/)
 
 ## Global Package Executables
