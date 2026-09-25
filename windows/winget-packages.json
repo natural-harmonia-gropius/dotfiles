@@ -1,6 +1,6 @@
 {
   "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-  "CreationDate": "2026-08-15T03:59:44.439+08:00",
+  "CreationDate": "2026-09-25T23:14:32.899+08:00",
   "Sources": [
     {
       "Packages": [
@@ -59,6 +59,9 @@
           "PackageIdentifier": "LeiGod.LeiGodAcc"
         },
         {
+          "PackageIdentifier": "LLVM.clangd"
+        },
+        {
           "PackageIdentifier": "LocalSend.LocalSend"
         },
         {
@@ -80,16 +83,28 @@
           "PackageIdentifier": "Microsoft.AppInstaller"
         },
         {
+          "PackageIdentifier": "Microsoft.DirectX.ShaderCompiler"
+        },
+        {
+          "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.10"
+        },
+        {
           "PackageIdentifier": "Microsoft.Edge"
         },
         {
           "PackageIdentifier": "Microsoft.GameInput"
         },
         {
+          "PackageIdentifier": "Microsoft.OneDrive"
+        },
+        {
           "PackageIdentifier": "Microsoft.OpenCLGLVulkanCompatibilityPack"
         },
         {
           "PackageIdentifier": "Microsoft.PowerShell"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerToys"
         },
         {
           "PackageIdentifier": "Microsoft.Sysinternals.Suite"
@@ -173,6 +188,9 @@
           "PackageIdentifier": "REALiX.HWiNFO"
         },
         {
+          "PackageIdentifier": "Scighost.Starward"
+        },
+        {
           "PackageIdentifier": "TeamSpeakSystems.TeamSpeakClient"
         },
         {
@@ -214,5 +232,5 @@
       }
     }
   ],
-  "WinGetVersion": "1.30.100-preview"
+  "WinGetVersion": "1.30.140-preview"
 }
